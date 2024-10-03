@@ -1,6 +1,6 @@
 # Team
 
-## Institut für Europäische Kunstgeschichte (IEKG), University Heidelberg
+## Institut für Europäische Kunstgeschichte (IEK), University Heidelberg
 **Henry Keazor** | [ORCID](https://orcid.org/0000-0002-0215-0577) | [Wikidata](https://www.wikidata.org/wiki/Q1606940) | [Website](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/mitarbeiter/keazor/)
 
 ## Leibniz Institute of European History (IEG), Mainz
