@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'About the project', link: '/about-the-project' },
           { text: 'Team', link: '/team' },
+          { text: 'Project partners', link: '/project_partners' },
           { text: 'Links', link: '/links' },
           { text: 'Zotero library', link: '/zotero' }
         ]
