@@ -14,6 +14,9 @@ hero:
       text: Team
       link: /team
     - theme: brand
+      text: Project partners
+      link: /project_partners
+    - theme: brand
       text: Links
       link: /links
     - theme: brand
