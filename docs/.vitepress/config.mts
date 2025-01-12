@@ -1,13 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export interface Footer {
-  // The message shown right before copyright.
-  message?: string
-
-  // The actual copyright text.
-  copyright?: string
-}
 export default defineConfig({
   title: "Forgeries and Networks",
   description: "Website of the ForNet project",
@@ -30,12 +23,6 @@ export default defineConfig({
         ]
       }
     ],
-    footer: [
-      {
-        message: 'Released under the MIT License.',
-        copyright: 'Copyright © 2019-present Evan You'
-  }
-],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
