@@ -28,9 +28,9 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
 // .vitepress/config.js
- footer: {
+ footer: [
    message: "Released under the MIT License.",
    copyright: "Copyright © 2022-present Adocs",
- },
+ ],
   }
 })
