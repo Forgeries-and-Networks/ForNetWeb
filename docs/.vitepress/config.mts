@@ -1,6 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
+export interface Footer {
+  // The message shown right before copyright.
+  message?: string
+
+  // The actual copyright text.
+  copyright?: string
+}
 export default defineConfig({
   title: "Forgeries and Networks",
   description: "Website of the ForNet project",
