@@ -23,12 +23,12 @@ export default defineConfig({
         ]
       }
     ],
-    footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
-    }
+    footer: [
+      {
+        message: 'Released under the MIT License.',
+        copyright: 'Copyright © 2019-present Evan You'
   }
-}
+],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
