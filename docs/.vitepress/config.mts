@@ -28,6 +28,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
 footer: [
-  { logo: 'logo', link: https://github.com/Forgeries-and-Networks/ForNetWeb/blob/main/docs/logo_IEG/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg
+  { logo: 'logo', link: 'https://github.com/Forgeries-and-Networks/ForNetWeb/blob/main/docs/logo_IEG/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg'
   }
 })
