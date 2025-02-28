@@ -1,9 +1,10 @@
-import DefaultTheme from 'vitepress/theme'
-import CustomFooter from './components/CustomFooter.vue'
+import DefaultTheme from 'vitepress/theme';
+import Footer from './components/Footer.vue';
+import type { Theme } from 'vitepress';
 
 export default {
-  extends: DefaultTheme,
+  ...DefaultTheme, // Extend the default theme
   enhanceApp({ app }) {
-    app.component('CustomFooter', CustomFooter)
-  }
-}
+    app.component('Footer', Footer); // Register the Footer component globally
+  },
+} as Theme;
