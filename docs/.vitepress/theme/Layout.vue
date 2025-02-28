@@ -1,13 +1,12 @@
 <script setup>
-import DefaultTheme from 'vitepress/theme'
-
-const { Layout } = DefaultTheme
+import DefaultTheme from 'vitepress/theme';
+const { Layout: DefaultLayout } = DefaultTheme;
 </script>
 
 <template>
-  <Layout>
-    <template #doc-after>
-      <CustomFooter />
+  <DefaultLayout>
+    <template #content-bottom>
+      <Footer />
     </template>
-  </Layout>
+  </DefaultLayout>
 </template>
