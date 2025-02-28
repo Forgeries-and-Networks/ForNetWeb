@@ -26,5 +26,10 @@ export default defineConfig({
   
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]}
-  })
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2023 Forgeries and Networks'
+    }
+  }
+});
