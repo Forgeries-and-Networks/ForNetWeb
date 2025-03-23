@@ -29,11 +29,6 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'export default defineConfig({
-  // ... bestehende Konfiguration
-  themeConfig: {
-    // ... vorhandene Einstellungen
-    footer: {
       message: `
         <div class="footer-logo">
           <img src="/docs/logo_IEG/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg" alt="ForNet Logo">
