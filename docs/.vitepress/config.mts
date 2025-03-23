@@ -30,7 +30,7 @@ export default defineConfig({
 
     footer: {
       message: 
-          <img src="logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg" alt="ForNet Logo">
+          <img src="ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg" alt="ForNet Logo">
         'Released under the MIT License.',
       copyright: 'Copyright © 2023 Forgeries and Networks'
     }
