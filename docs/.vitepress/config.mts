@@ -29,7 +29,16 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Released under the MIT License.',
+      message: 'export default defineConfig({
+  // ... bestehende Konfiguration
+  themeConfig: {
+    // ... vorhandene Einstellungen
+    footer: {
+      message: `
+        <div class="footer-logo">
+          <img src="/docs/logo_IEG/IEG_Logo_Vektorgrafik_mit-Schriftzug_Leibniz.jpg" alt="ForNet Logo">
+        </div>
+        Released under the MIT License.',
       copyright: 'Copyright © 2023 Forgeries and Networks'
     }
   }
