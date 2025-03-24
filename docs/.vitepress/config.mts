@@ -29,9 +29,13 @@ export default defineConfig({
     ],
 
       footer: {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+
         message: `
-            <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" alt="Logo HD" style="max-width: 80px; height: auto;">
-            <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" alt="Logo IEG" style="max-width: 120px; height: auto;">
+            <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" alt="Logo HD" style="max-width: 160px; height: auto;">
+            <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" alt="Logo IEG" style="max-width: 160px; height: auto;">
     Released under the MIT License.
   `,
   copyright: 'Copyright © 2023 Forgeries and Networks'
