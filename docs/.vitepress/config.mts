@@ -28,10 +28,13 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
 
-    footer: {
+    footer: [ 
+      { 
+        items: [
+          {  icon: 'IEG Logo', <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg"> }
+    ],
+
   message: `
-    <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg">
-    <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png">
     Released under the MIT License.
   `,
   copyright: 'Copyright © 2023 Forgeries and Networks'
