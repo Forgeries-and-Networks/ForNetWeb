@@ -31,6 +31,7 @@ export default defineConfig({
     footer: {
   message: `
     <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg">
+    <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png">
     Released under the MIT License.
   `,
   copyright: 'Copyright © 2023 Forgeries and Networks'
