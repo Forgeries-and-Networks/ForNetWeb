@@ -30,7 +30,7 @@ export default defineConfig({
 
       footer: {
   message: `
-    <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" alt="Logo">
+    <img src="/ForNetWeb/docs/logos/hd_logo_small_16cm_rgb.png" alt="Logo">
     Released under the MIT License.
   `,
   copyright: 'Copyright © 2023 Forgeries and Networks'
