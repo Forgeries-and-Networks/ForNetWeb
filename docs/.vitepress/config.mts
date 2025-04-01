@@ -43,7 +43,7 @@ export default defineConfig({
           >
         </a>
         <img 
-      src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
+      src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.png" 
       alt="Logo IEG" 
       style="max-width: 160px; height: auto; display: inline-block; vertical-align: middle;" 
     >
