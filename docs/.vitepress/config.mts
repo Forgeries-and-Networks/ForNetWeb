@@ -30,12 +30,18 @@ export default defineConfig({
 
       footer: {
       message: `
-        <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;"> 
-          <img src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" alt="Logo HD" style="max-width: 160px; height: auto;">
-          <img src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" alt="Logo IEG" style="max-width: 160px; height: auto;">
-        </div>
-        <div>Released under the MIT License.</div> 
-      `,
+        <img 
+          src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" 
+          alt="Logo HD" 
+          style="max-width: 160px; height: auto; display: inline-block; vertical-align: middle; margin-right: 20px;"
+        >
+        <img 
+          src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
+          alt="Logo IEG" 
+          style="max-width: 160px; height: auto; display: inline-block; vertical-align: middle;"
+        >
+        <div style="margin-top: 10px;">Released under the MIT License.</div> 
+      `, // Zurück zum Template Literal, da es lesbarer ist. Prüfe die Pfade!
       copyright: 'Copyright © 2023 Forgeries and Networks'
 }
 }
