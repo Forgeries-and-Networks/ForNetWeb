@@ -42,21 +42,15 @@ export default defineConfig({
             style="max-width: 160px; height: auto; display: block;"
           >
         </a>
-        <a 
-          href="https://www.ieg-mainz.de/" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          style="display: inline-block; vertical-align: middle;"
-        >
-          <img 
-            src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
-            alt="Logo IEG" 
-            style="max-width: 160px; height: auto; display: inline-block;"
-          >
-        </a>
-        <div style="margin-top: 10px;">Released under the MIT License.</div> 
-      `,
-      copyright: 'Copyright © 2023 Forgeries and Networks'
+        <img 
+      src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
+      alt="Logo IEG" 
+      style="max-width: 160px; height: auto; display: inline-block; vertical-align: middle;" 
+    >
+
+    <div style="margin-top: 10px;">Released under the MIT License.</div> 
+  `,
+  copyright: 'Copyright © 2023 Forgeries and Networks'
 }
 }
   }
