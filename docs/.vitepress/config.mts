@@ -19,7 +19,8 @@ export default defineConfig({
           { text: 'Team', link: '/team' },
           { text: 'Project partners', link: '/project_partners' },
           { text: 'Links', link: '/links' },
-          { text: 'Zotero library', link: '/zotero' }
+          { text: 'Zotero library', link: '/zotero' }, 
+          { text: 'Impressum', link: '/impressum'}
         ]
       }
     ],
@@ -56,7 +57,7 @@ export default defineConfig({
         </a>
         <div style="margin-top: 10px;">Released under the MIT License.</div> 
       `,
-      copyright: 'Copyright © 2023 Forgeries and Networks'
+      copyright: 'Copyright © 2023 Forgeries and Networks'   
 }
 }
   }
