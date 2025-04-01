@@ -34,24 +34,24 @@ export default defineConfig({
           href="https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/index.html" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style="display: inline-block; vertical-align: middle; margin-right: 50px;" // Style auf den Link verschoben
+          style="display: inline-block; vertical-align: middle; margin-right: 50px;"
         >
           <img 
             src="/ForNetWeb/logos/hd_logo_small_16cm_rgb.png" 
             alt="Logo HD" 
-            style="max-width: 160px; height: auto; display: block;" // display: block oder nichts, da der Link inline-block ist
+            style="max-width: 160px; height: auto; display: block;"
           >
         </a>
         <a 
           href="https://www.ieg-mainz.de/" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style="display: inline-block; vertical-align: middle;" // Style auf den Link verschoben
+          style="display: inline-block; vertical-align: middle;"
         >
           <img 
             src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
             alt="Logo IEG" 
-            style="max-width: 160px; height: auto; display: block;" // display: block oder nichts
+            style="max-width: 160px; height: auto; display: block;"
           >
         </a>
         <div style="margin-top: 10px;">Released under the MIT License.</div> 
