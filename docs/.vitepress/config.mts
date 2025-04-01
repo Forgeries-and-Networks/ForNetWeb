@@ -51,7 +51,7 @@ export default defineConfig({
           <img 
             src="/ForNetWeb/logos/IEG_Logo_Vektorgrafik_mit-Schriftzug_Querformat.svg" 
             alt="Logo IEG" 
-            style="max-width: 160px; height: auto;"
+            style="max-width: 160px; height: auto; display: inline-block;"
           >
         </a>
         <div style="margin-top: 10px;">Released under the MIT License.</div> 
