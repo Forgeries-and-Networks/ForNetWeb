@@ -24,7 +24,7 @@ hero:
       link: /zotero
     - theme: brand
       text: Impressum
-      link:/impressum
+      link: /impressum
       
 ---
 
