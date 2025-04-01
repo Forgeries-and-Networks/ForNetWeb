@@ -22,6 +22,9 @@ hero:
     - theme: brand
       text: Zotero library
       link: /zotero
+    - theme: brand
+      text: Impressum
+      link:/impressum
       
 ---
 
