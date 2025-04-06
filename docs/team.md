@@ -1,8 +1,10 @@
 # Team
 
-
 ![Group photo](/public/images/group_photo.jpg)
 ---
+
+From left to right: Demival Vasques Filho, Henry Keazor, Thorsten Wübbena, Rebecca Welkens, Jaap Geraerts
+
 ## Institut für Europäische Kunstgeschichte (IEK), University Heidelberg
 **Henry Keazor** (PI) | [ORCID](https://orcid.org/0000-0002-0215-0577) | [Wikidata](https://www.wikidata.org/wiki/Q1606940) | [Website](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/mitarbeiter/keazor/)  
 **Rebecca Welkens** | [Wikidata](https://www.wikidata.org/wiki/Q130368983) 
