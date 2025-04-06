@@ -12,3 +12,5 @@ Student assistants (in alphabetical order): Jonas Ehinger, Julia Grimm, Anna Her
 **Thorsten Wübbena** (PI) |[ORCID](https://orcid.org/0000-0001-8172-6097) | [Wikidata](https://www.wikidata.org/wiki/Q42737846) | [Website](https://www.ieg-mainz.de/institut/personen/wuebbena)  
 
 Student assistant: Lara Beringer
+
+![Group photot](/public/images/group_photo.jpg)
