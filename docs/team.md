@@ -1,5 +1,8 @@
 # Team
 
+
+![Group photo](/public/images/group_photo.jpg)
+---
 ## Institut für Europäische Kunstgeschichte (IEK), University Heidelberg
 **Henry Keazor** (PI) | [ORCID](https://orcid.org/0000-0002-0215-0577) | [Wikidata](https://www.wikidata.org/wiki/Q1606940) | [Website](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/mitarbeiter/keazor/)  
 **Rebecca Welkens** | [Wikidata](https://www.wikidata.org/wiki/Q130368983) 
@@ -13,4 +16,3 @@ Student assistants (in alphabetical order): Jonas Ehinger, Julia Grimm, Anna Her
 
 Student assistant: Lara Beringer
 
-![Group photot](/public/images/group_photo.jpg)
