@@ -7,7 +7,7 @@ From left to right: Demival Vasques Filho, Henry Keazor, Thorsten Wübbena, Rebe
 
 ## Institut für Europäische Kunstgeschichte (IEK), University Heidelberg
 **Henry Keazor** (PI) | [ORCID](https://orcid.org/0000-0002-0215-0577) | [Wikidata](https://www.wikidata.org/wiki/Q1606940) | [Website](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/mitarbeiter/keazor/)  
-**Rebecca Welkens** | [ORCID](https://orcid.org/0009-0006-5527-6065) | [Wikidata](https://www.wikidata.org/wiki/Q130368983) | [Website](https://www.zikg.eu/personen/rwelkens) 
+**Rebecca Welkens** | [ORCID](https://orcid.org/0009-0006-5527-6065) | [Wikidata](https://www.wikidata.org/wiki/Q130368983) | [Website](https://www.kunst.uni-heidelberg.de/de/institut/personen/rebecca-welkens) 
 
 Student assistants (in alphabetical order): Jonas Ehinger, Julia Grimm, Anna Hermes, Anna Souhradová, Emma Wittler, Eva Zellner 
 
