@@ -17,6 +17,9 @@ hero:
       text: Project partners
       link: /project_partners
     - theme: brand
+      text: Talks and publications
+      link: /talks_and_publications
+    - theme: brand
       text: Links
       link: /links
     - theme: brand
