@@ -21,3 +21,9 @@ Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten W�
 Rebecca Welkens, ‘Forgeries and Networks’, Annual Conference of the Arbeitskreis Provenienzforschung e.V. (Association for Provenance Research) 2025, Bonn, 8-10 September, 2025 [PDF Poster](/images/fornet-poster-rebecca-welkens.pdf)
 
 Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Countering counterfeiters: The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century”, NetSciX 2026, 17.02.2026, https://doi.org/10.5281/zenodo.20431700 (Abstract), https://doi.org/10.5281/zenodo.20431888 (Poster).
+
+## Interviews
+
+* [Interview with Henry Keazor (SWR)](https://www.swr.de/swrkultur/kunst-und-ausstellung/aus-skandalen-lernen-kunsthistoriker-erforscht-geschichte-von-kunstfaelschungen-100.html), August 1st 2024 -- German
+
+* [Interview with Henry Keazor (SFR)](https://www.srf.ch/kultur/kunst/forschung-zu-faelschungen-fake-dieser-mann-kennt-die-tricks-der-meisterfaelscher), August 19th 2024 -- German
