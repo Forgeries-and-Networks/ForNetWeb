@@ -13,7 +13,7 @@
 
 
 ## Publications
-* Cara Signe Hoppe: „Fälschungen und Netzwerke – Die „Mittheilungen des Museen-Verbandes“ und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
+* Cara Signe Hoppe: „Fälschungen und Netzwerke – Die 'Mittheilungen des Museen-Verbandes' und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
 
