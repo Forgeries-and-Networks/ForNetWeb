@@ -13,7 +13,7 @@
 
 
 ## Publications
-*Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
+* Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet): data transformations”, DH Lab, 27.06.2025, https://dhlab.hypotheses.org/7237.
 
