@@ -17,4 +17,13 @@ The project’s digital component has several distinct but interlinking goals. F
 **Funding:** [Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)](https://www.dfg.de/en). Project number 531800604.
 
 
+Several links regarding the ForNet project will be provided on this page, for example press releases, interviews and more. The site will be updated regularly and is currently a work in progress.  
+
+* [ForNet project site, Institute of Art History, University of Heidelberg](https://www.kunst.uni-heidelberg.de/de/forschung/forschungsprojekte/faelschungen-und-netzwerke) -- German  
+    Here, the Institute of Art History at University of Heidelberg informs about ForNet. This page is updated continuously as the project progresses further.
+
+* [Press release, University of Heidelberg on ForNet](https://www.uni-heidelberg.de/en/newsroom/research-project-how-experts-exposed-art-forgeries-in-the-early-20th-century), April 19th 2024 -- English  
+    This press release was published before ForNet launched and informs readers about how and why the project was created, its outline and its goals.
+
+
 
