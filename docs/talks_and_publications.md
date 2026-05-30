@@ -1,4 +1,4 @@
-# Talks, publications, poster
+# Talks and publications
 
 ## Talks
 Jaap Geraerts and Henry Keazor, ‘Le projet de recherche interdisciplinaire «Forgeries and Networks [Faux et réseaux] (ForNet)», Festival de l’histoire de l’art, Château de Fontainebleau, June 7, 2025 (https://www.festivaldelhistoiredelart.fr/programmation/le-projet-de-recherche-interdisciplinaire-forgeries-and-networks-faux-et-reseaux-fornet/)
