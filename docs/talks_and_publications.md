@@ -13,13 +13,12 @@
 
 
 ## Publications
+* Cara Signe Hoppe: „Fälschungen und Netzwerke – Die „Mittheilungen des Museen-Verbandes“ und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
+
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet): data transformations”, DH Lab, 27.06.2025, https://dhlab.hypotheses.org/7237.
 
-    
-* [Fälschungen und Netzwerke – Die „Mittheilungen des Museen-Verbandes“ und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)](https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet) -- German   
-Blog post, arthistoricum.net -- the web portal and specialised information service for arthistory researchers.
 
 ## Poster
 * Rebecca Welkens, ‘Forgeries and Networks’, Annual Conference of the Arbeitskreis Provenienzforschung e.V. (Association for Provenance Research) 2025, Bonn, 8-10 September, 2025 [PDF Poster](/images/fornet-poster-rebecca-welkens.pdf)
