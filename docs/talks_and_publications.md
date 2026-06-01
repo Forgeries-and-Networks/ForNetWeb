@@ -13,7 +13,7 @@
 
 * Jaap Geraerts and Thorsten Wübbena, 'Forgeries and Networks – The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', February 5, 2026, Goethe Universiy, Frankfurt am Main
 
-* Rebecca Welkens,  'Forgeries and Networks (ForNet): The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', 18. März 2026, Central Institute for Art History (Zentralinstitut für Kunstgeschichte), Munich
+* Rebecca Welkens,  'Forgeries and Networks (ForNet): The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', Workshop, 18. März 2026, Central Institute for Art History (Zentralinstitut für Kunstgeschichte), Munich
 
 
 ## Publications
