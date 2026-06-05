@@ -31,6 +31,6 @@
 
 ## Interviews
 
-* [Interview with Henry Keazor (SWR)](https://www.swr.de/swrkultur/kunst-und-ausstellung/aus-skandalen-lernen-kunsthistoriker-erforscht-geschichte-von-kunstfaelschungen-100.html), August 1st 2024 -- German
+<!--- * [Interview with Henry Keazor (SWR)](https://www.swr.de/swrkultur/kunst-und-ausstellung/aus-skandalen-lernen-kunsthistoriker-erforscht-geschichte-von-kunstfaelschungen-100.html), August 1st 2024 -- German --->
 
 * [Interview with Henry Keazor (SFR)](https://www.srf.ch/kultur/kunst/forschung-zu-faelschungen-fake-dieser-mann-kennt-die-tricks-der-meisterfaelscher), August 19th 2024 -- German
