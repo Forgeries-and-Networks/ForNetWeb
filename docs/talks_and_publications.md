@@ -29,7 +29,7 @@
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Countering counterfeiters: The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century”, NetSciX 2026, Auckland, February 17, 2026, https://doi.org/10.5281/zenodo.20431700 (Abstract), https://doi.org/10.5281/zenodo.20431888 (Poster).
 
-* Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet). The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century”, DH Benelux 2026, Maastricht, https://doi.org/10.5281/zenodo.19397735 (Abstract), XXX (Poster)
+* Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet). The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century”, DH Benelux 2026, Maastricht, https://doi.org/10.5281/zenodo.19397735 (Abstract), https://doi.org/10.5281/zenodo.20558953 (Poster)
 
 ## Interviews
 
