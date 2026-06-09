@@ -1,0 +1,28 @@
+.interactive-svg {
+  height: 600px;
+  border: 1px solid gray;
+  margin: 30px -30px;
+  /* padding: 30px; */
+  cursor: pointer;
+
+  .image {
+    display: block;
+    height: auto;
+
+    svg {
+      cursor: pointer;
+    }
+  }
+}
+
+.interactive-graph {
+  height: 600px;
+  border: 1px solid gray;
+  margin: 30px -30px;
+}
+
+.cytoscape-graph {
+  height: 600px;
+  border: 1px solid gray;
+  margin: 30px -30px;
+}

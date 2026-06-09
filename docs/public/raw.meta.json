@@ -1,0 +1,5528 @@
+﻿[
+  {
+    "nodes": [
+      {
+        "identity": -100,
+        "labels": [
+          "date"
+        ],
+        "properties": {
+          "name": "date",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-100"
+      },
+      {
+        "identity": -112,
+        "labels": [
+          "origin"
+        ],
+        "properties": {
+          "name": "origin",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-112"
+      },
+      {
+        "identity": -111,
+        "labels": [
+          "Prehistoric"
+        ],
+        "properties": {
+          "name": "Prehistoric",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-111"
+      },
+      {
+        "identity": -113,
+        "labels": [
+          "artwork"
+        ],
+        "properties": {
+          "name": "artwork",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-113"
+      },
+      {
+        "identity": -114,
+        "labels": [
+          "source"
+        ],
+        "properties": {
+          "name": "source",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-114"
+      },
+      {
+        "identity": -101,
+        "labels": [
+          "Modern"
+        ],
+        "properties": {
+          "name": "Modern",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-101"
+      },
+      {
+        "identity": -102,
+        "labels": [
+          "entry"
+        ],
+        "properties": {
+          "name": "entry",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-102"
+      },
+      {
+        "identity": -103,
+        "labels": [
+          "institution"
+        ],
+        "properties": {
+          "name": "institution",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-103"
+      },
+      {
+        "identity": -108,
+        "labels": [
+          "Medieval"
+        ],
+        "properties": {
+          "name": "Medieval",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-108"
+      },
+      {
+        "identity": -105,
+        "labels": [
+          "material"
+        ],
+        "properties": {
+          "name": "material",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-105"
+      },
+      {
+        "identity": -104,
+        "labels": [
+          "person"
+        ],
+        "properties": {
+          "name": "person",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-104"
+      },
+      {
+        "identity": -115,
+        "labels": [
+          "Antiquity"
+        ],
+        "properties": {
+          "name": "Antiquity",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-115"
+      },
+      {
+        "identity": -106,
+        "labels": [
+          "Bronze_Age"
+        ],
+        "properties": {
+          "name": "Bronze_Age",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-106"
+      },
+      {
+        "identity": -110,
+        "labels": [
+          "event"
+        ],
+        "properties": {
+          "name": "event",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-110"
+      },
+      {
+        "identity": -109,
+        "labels": [
+          "Early_modern"
+        ],
+        "properties": {
+          "name": "Early_modern",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-109"
+      },
+      {
+        "identity": -107,
+        "labels": [
+          "object"
+        ],
+        "properties": {
+          "name": "object",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-107"
+      }
+    ],
+    "relationships": [
+      {
+        "identity": -259,
+        "start": -113,
+        "end": -110,
+        "type": "gift",
+        "properties": {
+          "name": "gift"
+        },
+        "elementId": "-259",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -363,
+        "start": -103,
+        "end": -104,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-363",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -371,
+        "start": -104,
+        "end": -114,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-371",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -375,
+        "start": -114,
+        "end": -113,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-375",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -372,
+        "start": -114,
+        "end": -103,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-372",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -364,
+        "start": -103,
+        "end": -110,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-364",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -362,
+        "start": -103,
+        "end": -103,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-362",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -366,
+        "start": -103,
+        "end": -114,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-366",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -373,
+        "start": -114,
+        "end": -104,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-373",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -367,
+        "start": -104,
+        "end": -103,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-367",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -376,
+        "start": -114,
+        "end": -114,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-376",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -365,
+        "start": -103,
+        "end": -113,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-365",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -369,
+        "start": -104,
+        "end": -110,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-369",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -368,
+        "start": -104,
+        "end": -104,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-368",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -370,
+        "start": -104,
+        "end": -113,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-370",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -374,
+        "start": -114,
+        "end": -110,
+        "type": "expert",
+        "properties": {
+          "name": "expert"
+        },
+        "elementId": "-374",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -446,
+        "start": -104,
+        "end": -110,
+        "type": "initiator",
+        "properties": {
+          "name": "initiator"
+        },
+        "elementId": "-446",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -445,
+        "start": -104,
+        "end": -104,
+        "type": "initiator",
+        "properties": {
+          "name": "initiator"
+        },
+        "elementId": "-445",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -447,
+        "start": -104,
+        "end": -113,
+        "type": "initiator",
+        "properties": {
+          "name": "initiator"
+        },
+        "elementId": "-447",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -448,
+        "start": -104,
+        "end": -114,
+        "type": "initiator",
+        "properties": {
+          "name": "initiator"
+        },
+        "elementId": "-448",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -246,
+        "start": -104,
+        "end": -103,
+        "type": "conservator",
+        "properties": {
+          "name": "conservator"
+        },
+        "elementId": "-246",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -247,
+        "start": -104,
+        "end": -113,
+        "type": "conservator",
+        "properties": {
+          "name": "conservator"
+        },
+        "elementId": "-247",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -494,
+        "start": -104,
+        "end": -113,
+        "type": "carpenter",
+        "properties": {
+          "name": "carpenter"
+        },
+        "elementId": "-494",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -124,
+        "start": -103,
+        "end": -104,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-124",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -128,
+        "start": -104,
+        "end": -104,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-128",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -126,
+        "start": -103,
+        "end": -114,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-126",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -130,
+        "start": -104,
+        "end": -114,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-130",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -125,
+        "start": -103,
+        "end": -110,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-125",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -127,
+        "start": -104,
+        "end": -102,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-127",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -123,
+        "start": -103,
+        "end": -102,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-123",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -129,
+        "start": -104,
+        "end": -110,
+        "type": "intermediary",
+        "properties": {
+          "name": "intermediary"
+        },
+        "elementId": "-129",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -280,
+        "start": -102,
+        "end": -113,
+        "type": "uncertain",
+        "properties": {
+          "name": "uncertain"
+        },
+        "elementId": "-280",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -281,
+        "start": -114,
+        "end": -113,
+        "type": "uncertain",
+        "properties": {
+          "name": "uncertain"
+        },
+        "elementId": "-281",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -179,
+        "start": -104,
+        "end": -104,
+        "type": "collaborator",
+        "properties": {
+          "name": "collaborator"
+        },
+        "elementId": "-179",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -180,
+        "start": -104,
+        "end": -113,
+        "type": "collaborator",
+        "properties": {
+          "name": "collaborator"
+        },
+        "elementId": "-180",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -178,
+        "start": -104,
+        "end": -103,
+        "type": "collaborator",
+        "properties": {
+          "name": "collaborator"
+        },
+        "elementId": "-178",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -474,
+        "start": -113,
+        "end": -110,
+        "type": "offer",
+        "properties": {
+          "name": "offer"
+        },
+        "elementId": "-474",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -477,
+        "start": -102,
+        "end": -113,
+        "type": "stylistic_imitation",
+        "properties": {
+          "name": "stylistic_imitation"
+        },
+        "elementId": "-477",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -478,
+        "start": -114,
+        "end": -113,
+        "type": "stylistic_imitation",
+        "properties": {
+          "name": "stylistic_imitation"
+        },
+        "elementId": "-478",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -483,
+        "start": -104,
+        "end": -114,
+        "type": "supplier",
+        "properties": {
+          "name": "supplier"
+        },
+        "elementId": "-483",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -482,
+        "start": -104,
+        "end": -113,
+        "type": "supplier",
+        "properties": {
+          "name": "supplier"
+        },
+        "elementId": "-482",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -481,
+        "start": -104,
+        "end": -110,
+        "type": "supplier",
+        "properties": {
+          "name": "supplier"
+        },
+        "elementId": "-481",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -538,
+        "start": -104,
+        "end": -113,
+        "type": "stained-glass_artist",
+        "properties": {
+          "name": "stained-glass_artist"
+        },
+        "elementId": "-538",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -480,
+        "start": -104,
+        "end": -104,
+        "type": "friend",
+        "properties": {
+          "name": "friend"
+        },
+        "elementId": "-480",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -349,
+        "start": -113,
+        "end": -110,
+        "type": "ERROR",
+        "properties": {
+          "name": "ERROR"
+        },
+        "elementId": "-349",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -509,
+        "start": -103,
+        "end": -110,
+        "type": "parting_party",
+        "properties": {
+          "name": "parting_party"
+        },
+        "elementId": "-509",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -399,
+        "start": -103,
+        "end": -103,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-399",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -402,
+        "start": -113,
+        "end": -103,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-402",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -400,
+        "start": -103,
+        "end": -110,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-400",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -404,
+        "start": -113,
+        "end": -114,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-404",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -403,
+        "start": -113,
+        "end": -110,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-403",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -401,
+        "start": -103,
+        "end": -114,
+        "type": "linked_to",
+        "properties": {
+          "name": "linked_to"
+        },
+        "elementId": "-401",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -438,
+        "start": -104,
+        "end": -103,
+        "type": "apprentice",
+        "properties": {
+          "name": "apprentice"
+        },
+        "elementId": "-438",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -439,
+        "start": -104,
+        "end": -104,
+        "type": "apprentice",
+        "properties": {
+          "name": "apprentice"
+        },
+        "elementId": "-439",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -457,
+        "start": -113,
+        "end": -110,
+        "type": "meeting",
+        "properties": {
+          "name": "meeting"
+        },
+        "elementId": "-457",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -529,
+        "start": -110,
+        "end": -110,
+        "type": "investigated",
+        "properties": {
+          "name": "investigated"
+        },
+        "elementId": "-529",
+        "startNodeElementId": "-110",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -206,
+        "start": -102,
+        "end": -113,
+        "type": "possible_forgery",
+        "properties": {
+          "name": "possible_forgery"
+        },
+        "elementId": "-206",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -207,
+        "start": -114,
+        "end": -113,
+        "type": "possible_forgery",
+        "properties": {
+          "name": "possible_forgery"
+        },
+        "elementId": "-207",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -511,
+        "start": -103,
+        "end": -110,
+        "type": "plaintiff",
+        "properties": {
+          "name": "plaintiff"
+        },
+        "elementId": "-511",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -185,
+        "start": -104,
+        "end": -103,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-185",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -184,
+        "start": -104,
+        "end": -102,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-184",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -195,
+        "start": -114,
+        "end": -114,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-195",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -191,
+        "start": -114,
+        "end": -103,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-191",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -194,
+        "start": -114,
+        "end": -113,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-194",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -193,
+        "start": -114,
+        "end": -110,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-193",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -192,
+        "start": -114,
+        "end": -104,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-192",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -186,
+        "start": -104,
+        "end": -104,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-186",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -187,
+        "start": -104,
+        "end": -110,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-187",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -190,
+        "start": -114,
+        "end": -102,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-190",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -189,
+        "start": -104,
+        "end": -114,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-189",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -188,
+        "start": -104,
+        "end": -113,
+        "type": "discussant",
+        "properties": {
+          "name": "discussant"
+        },
+        "elementId": "-188",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -131,
+        "start": -104,
+        "end": -103,
+        "type": "director",
+        "properties": {
+          "name": "director"
+        },
+        "elementId": "-131",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -132,
+        "start": -104,
+        "end": -104,
+        "type": "director",
+        "properties": {
+          "name": "director"
+        },
+        "elementId": "-132",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -492,
+        "start": -104,
+        "end": -104,
+        "type": "wife",
+        "properties": {
+          "name": "wife"
+        },
+        "elementId": "-492",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -283,
+        "start": -113,
+        "end": -113,
+        "type": "possible_forgery_of",
+        "properties": {
+          "name": "possible_forgery_of"
+        },
+        "elementId": "-283",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -530,
+        "start": -103,
+        "end": -113,
+        "type": "pretended_former_owner",
+        "properties": {
+          "name": "pretended_former_owner"
+        },
+        "elementId": "-530",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -182,
+        "start": -113,
+        "end": -103,
+        "type": "received",
+        "properties": {
+          "name": "received"
+        },
+        "elementId": "-182",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -183,
+        "start": -114,
+        "end": -103,
+        "type": "received",
+        "properties": {
+          "name": "received"
+        },
+        "elementId": "-183",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -181,
+        "start": -110,
+        "end": -103,
+        "type": "received",
+        "properties": {
+          "name": "received"
+        },
+        "elementId": "-181",
+        "startNodeElementId": "-110",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -298,
+        "start": -113,
+        "end": -107,
+        "type": "is",
+        "properties": {
+          "name": "is"
+        },
+        "elementId": "-298",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-107"
+      },
+      {
+        "identity": -356,
+        "start": -104,
+        "end": -110,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-356",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -357,
+        "start": -104,
+        "end": -113,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-357",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -355,
+        "start": -104,
+        "end": -104,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-355",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -359,
+        "start": -114,
+        "end": -104,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-359",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -350,
+        "start": -103,
+        "end": -103,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-350",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -351,
+        "start": -103,
+        "end": -104,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-351",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -361,
+        "start": -114,
+        "end": -113,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-361",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -352,
+        "start": -103,
+        "end": -110,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-352",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -354,
+        "start": -104,
+        "end": -103,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-354",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -353,
+        "start": -103,
+        "end": -113,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-353",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -358,
+        "start": -114,
+        "end": -103,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-358",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -360,
+        "start": -114,
+        "end": -110,
+        "type": "buyer",
+        "properties": {
+          "name": "buyer"
+        },
+        "elementId": "-360",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -472,
+        "start": -104,
+        "end": -113,
+        "type": "possible_artist",
+        "properties": {
+          "name": "possible_artist"
+        },
+        "elementId": "-472",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -204,
+        "start": -113,
+        "end": -113,
+        "type": "forgery_same_original",
+        "properties": {
+          "name": "forgery_same_original"
+        },
+        "elementId": "-204",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -495,
+        "start": -113,
+        "end": -105,
+        "type": "contains",
+        "properties": {
+          "name": "contains"
+        },
+        "elementId": "-495",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-105"
+      },
+      {
+        "identity": -284,
+        "start": -113,
+        "end": -113,
+        "type": "copy_of",
+        "properties": {
+          "name": "copy_of"
+        },
+        "elementId": "-284",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -169,
+        "start": -102,
+        "end": -110,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-169",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -175,
+        "start": -114,
+        "end": -113,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-175",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -171,
+        "start": -102,
+        "end": -114,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-171",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -174,
+        "start": -114,
+        "end": -110,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-174",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -176,
+        "start": -114,
+        "end": -114,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-176",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -173,
+        "start": -114,
+        "end": -104,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-173",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -167,
+        "start": -102,
+        "end": -103,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-167",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -168,
+        "start": -102,
+        "end": -104,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-168",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -172,
+        "start": -114,
+        "end": -103,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-172",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -170,
+        "start": -102,
+        "end": -113,
+        "type": "mentions",
+        "properties": {
+          "name": "mentions"
+        },
+        "elementId": "-170",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -286,
+        "start": -113,
+        "end": -113,
+        "type": "possibly_same_forger",
+        "properties": {
+          "name": "possibly_same_forger"
+        },
+        "elementId": "-286",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -230,
+        "start": -102,
+        "end": -113,
+        "type": "pastiche",
+        "properties": {
+          "name": "pastiche"
+        },
+        "elementId": "-230",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -231,
+        "start": -114,
+        "end": -113,
+        "type": "pastiche",
+        "properties": {
+          "name": "pastiche"
+        },
+        "elementId": "-231",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -498,
+        "start": -104,
+        "end": -110,
+        "type": "repairer",
+        "properties": {
+          "name": "repairer"
+        },
+        "elementId": "-498",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -453,
+        "start": -114,
+        "end": -104,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-453",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -449,
+        "start": -103,
+        "end": -104,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-449",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -451,
+        "start": -104,
+        "end": -104,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-451",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -452,
+        "start": -104,
+        "end": -113,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-452",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -454,
+        "start": -114,
+        "end": -113,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-454",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -450,
+        "start": -103,
+        "end": -113,
+        "type": "possible_forger",
+        "properties": {
+          "name": "possible_forger"
+        },
+        "elementId": "-450",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -475,
+        "start": -104,
+        "end": -104,
+        "type": "brother_in_law",
+        "properties": {
+          "name": "brother_in_law"
+        },
+        "elementId": "-475",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -208,
+        "start": -104,
+        "end": -104,
+        "type": "brother",
+        "properties": {
+          "name": "brother"
+        },
+        "elementId": "-208",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -542,
+        "start": -103,
+        "end": -110,
+        "type": "donated",
+        "properties": {
+          "name": "donated"
+        },
+        "elementId": "-542",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -209,
+        "start": -103,
+        "end": -103,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-209",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -211,
+        "start": -103,
+        "end": -110,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-211",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -222,
+        "start": -113,
+        "end": -113,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-222",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -216,
+        "start": -104,
+        "end": -110,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-216",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -217,
+        "start": -104,
+        "end": -113,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-217",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -223,
+        "start": -113,
+        "end": -114,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-223",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -212,
+        "start": -103,
+        "end": -113,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-212",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -215,
+        "start": -104,
+        "end": -104,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-215",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -221,
+        "start": -113,
+        "end": -110,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-221",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -214,
+        "start": -104,
+        "end": -103,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-214",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -219,
+        "start": -113,
+        "end": -103,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-219",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -220,
+        "start": -113,
+        "end": -104,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-220",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -213,
+        "start": -103,
+        "end": -114,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-213",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -218,
+        "start": -104,
+        "end": -114,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-218",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -210,
+        "start": -103,
+        "end": -104,
+        "type": "other",
+        "properties": {
+          "name": "other"
+        },
+        "elementId": "-210",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -236,
+        "start": -104,
+        "end": -110,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-236",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -242,
+        "start": -114,
+        "end": -113,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-242",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -235,
+        "start": -104,
+        "end": -104,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-235",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -234,
+        "start": -104,
+        "end": -103,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-234",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -239,
+        "start": -114,
+        "end": -103,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-239",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -241,
+        "start": -114,
+        "end": -110,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-241",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -240,
+        "start": -114,
+        "end": -104,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-240",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -237,
+        "start": -104,
+        "end": -113,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-237",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -238,
+        "start": -104,
+        "end": -114,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-238",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -243,
+        "start": -114,
+        "end": -114,
+        "type": "artist",
+        "properties": {
+          "name": "artist"
+        },
+        "elementId": "-243",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -515,
+        "start": -104,
+        "end": -113,
+        "type": "thief",
+        "properties": {
+          "name": "thief"
+        },
+        "elementId": "-515",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -514,
+        "start": -104,
+        "end": -110,
+        "type": "thief",
+        "properties": {
+          "name": "thief"
+        },
+        "elementId": "-514",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -108,
+        "start": -104,
+        "end": -102,
+        "type": "translator",
+        "properties": {
+          "name": "translator"
+        },
+        "elementId": "-108",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -109,
+        "start": -104,
+        "end": -114,
+        "type": "translator",
+        "properties": {
+          "name": "translator"
+        },
+        "elementId": "-109",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -443,
+        "start": -113,
+        "end": -113,
+        "type": "same_technique",
+        "properties": {
+          "name": "same_technique"
+        },
+        "elementId": "-443",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -120,
+        "start": -104,
+        "end": -103,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-120",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -121,
+        "start": -104,
+        "end": -110,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-121",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -118,
+        "start": -103,
+        "end": -110,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-118",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -119,
+        "start": -103,
+        "end": -113,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-119",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -117,
+        "start": -103,
+        "end": -103,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-117",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -122,
+        "start": -104,
+        "end": -113,
+        "type": "restorer",
+        "properties": {
+          "name": "restorer"
+        },
+        "elementId": "-122",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -245,
+        "start": -114,
+        "end": -113,
+        "type": "stylorgery",
+        "properties": {
+          "name": "stylorgery"
+        },
+        "elementId": "-245",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -244,
+        "start": -102,
+        "end": -113,
+        "type": "stylorgery",
+        "properties": {
+          "name": "stylorgery"
+        },
+        "elementId": "-244",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -476,
+        "start": -113,
+        "end": -113,
+        "type": "same_workshop",
+        "properties": {
+          "name": "same_workshop"
+        },
+        "elementId": "-476",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -531,
+        "start": -104,
+        "end": -113,
+        "type": "depicted_person",
+        "properties": {
+          "name": "depicted_person"
+        },
+        "elementId": "-531",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -106,
+        "start": -113,
+        "end": -110,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-106",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -101,
+        "start": -104,
+        "end": -104,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-101",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -104,
+        "start": -113,
+        "end": -103,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-104",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -105,
+        "start": -113,
+        "end": -104,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-105",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -100,
+        "start": -104,
+        "end": -103,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-100",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -107,
+        "start": -113,
+        "end": -113,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-107",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -102,
+        "start": -104,
+        "end": -110,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-102",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -103,
+        "start": -104,
+        "end": -113,
+        "type": "unknown",
+        "properties": {
+          "name": "unknown"
+        },
+        "elementId": "-103",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -521,
+        "start": -104,
+        "end": -110,
+        "type": "auctioneer",
+        "properties": {
+          "name": "auctioneer"
+        },
+        "elementId": "-521",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -518,
+        "start": -104,
+        "end": -103,
+        "type": "member",
+        "properties": {
+          "name": "member"
+        },
+        "elementId": "-518",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -517,
+        "start": -104,
+        "end": -102,
+        "type": "member",
+        "properties": {
+          "name": "member"
+        },
+        "elementId": "-517",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -519,
+        "start": -104,
+        "end": -110,
+        "type": "member",
+        "properties": {
+          "name": "member"
+        },
+        "elementId": "-519",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -431,
+        "start": -113,
+        "end": -110,
+        "type": "commission",
+        "properties": {
+          "name": "commission"
+        },
+        "elementId": "-431",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -113,
+        "start": -103,
+        "end": -114,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-113",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -114,
+        "start": -104,
+        "end": -110,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-114",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -116,
+        "start": -104,
+        "end": -114,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-116",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -111,
+        "start": -103,
+        "end": -110,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-111",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -112,
+        "start": -103,
+        "end": -113,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-112",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -115,
+        "start": -104,
+        "end": -113,
+        "type": "appraiser",
+        "properties": {
+          "name": "appraiser"
+        },
+        "elementId": "-115",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -248,
+        "start": -102,
+        "end": -113,
+        "type": "copy",
+        "properties": {
+          "name": "copy"
+        },
+        "elementId": "-248",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -249,
+        "start": -114,
+        "end": -113,
+        "type": "copy",
+        "properties": {
+          "name": "copy"
+        },
+        "elementId": "-249",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -540,
+        "start": -110,
+        "end": -110,
+        "type": "took_place_at",
+        "properties": {
+          "name": "took_place_at"
+        },
+        "elementId": "-540",
+        "startNodeElementId": "-110",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -456,
+        "start": -104,
+        "end": -114,
+        "type": "editor",
+        "properties": {
+          "name": "editor"
+        },
+        "elementId": "-456",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -536,
+        "start": -104,
+        "end": -113,
+        "type": "pretended_author",
+        "properties": {
+          "name": "pretended_author"
+        },
+        "elementId": "-536",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -537,
+        "start": -104,
+        "end": -114,
+        "type": "pretended_author",
+        "properties": {
+          "name": "pretended_author"
+        },
+        "elementId": "-537",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -273,
+        "start": -104,
+        "end": -113,
+        "type": "founder",
+        "properties": {
+          "name": "founder"
+        },
+        "elementId": "-273",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -272,
+        "start": -104,
+        "end": -103,
+        "type": "founder",
+        "properties": {
+          "name": "founder"
+        },
+        "elementId": "-272",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -274,
+        "start": -104,
+        "end": -114,
+        "type": "founder",
+        "properties": {
+          "name": "founder"
+        },
+        "elementId": "-274",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -442,
+        "start": -113,
+        "end": -113,
+        "type": "forgery_of",
+        "properties": {
+          "name": "forgery_of"
+        },
+        "elementId": "-442",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -441,
+        "start": -104,
+        "end": -113,
+        "type": "accused",
+        "properties": {
+          "name": "accused"
+        },
+        "elementId": "-441",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -440,
+        "start": -104,
+        "end": -110,
+        "type": "accused",
+        "properties": {
+          "name": "accused"
+        },
+        "elementId": "-440",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -513,
+        "start": -103,
+        "end": -113,
+        "type": "borrower",
+        "properties": {
+          "name": "borrower"
+        },
+        "elementId": "-513",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -512,
+        "start": -103,
+        "end": -110,
+        "type": "borrower",
+        "properties": {
+          "name": "borrower"
+        },
+        "elementId": "-512",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -516,
+        "start": -104,
+        "end": -114,
+        "type": "reviewer",
+        "properties": {
+          "name": "reviewer"
+        },
+        "elementId": "-516",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -197,
+        "start": -104,
+        "end": -113,
+        "type": "plaster_caster",
+        "properties": {
+          "name": "plaster_caster"
+        },
+        "elementId": "-197",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -428,
+        "start": -113,
+        "end": -110,
+        "type": "theft",
+        "properties": {
+          "name": "theft"
+        },
+        "elementId": "-428",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -261,
+        "start": -102,
+        "end": -113,
+        "type": "forgery",
+        "properties": {
+          "name": "forgery"
+        },
+        "elementId": "-261",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -262,
+        "start": -114,
+        "end": -113,
+        "type": "forgery",
+        "properties": {
+          "name": "forgery"
+        },
+        "elementId": "-262",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -490,
+        "start": -113,
+        "end": -110,
+        "type": "sale",
+        "properties": {
+          "name": "sale"
+        },
+        "elementId": "-490",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -470,
+        "start": -113,
+        "end": -110,
+        "type": "referral",
+        "properties": {
+          "name": "referral"
+        },
+        "elementId": "-470",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -227,
+        "start": -104,
+        "end": -110,
+        "type": "consultant",
+        "properties": {
+          "name": "consultant"
+        },
+        "elementId": "-227",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -229,
+        "start": -104,
+        "end": -114,
+        "type": "consultant",
+        "properties": {
+          "name": "consultant"
+        },
+        "elementId": "-229",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -228,
+        "start": -104,
+        "end": -113,
+        "type": "consultant",
+        "properties": {
+          "name": "consultant"
+        },
+        "elementId": "-228",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -226,
+        "start": -104,
+        "end": -104,
+        "type": "consultant",
+        "properties": {
+          "name": "consultant"
+        },
+        "elementId": "-226",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -520,
+        "start": -114,
+        "end": -113,
+        "type": "not_specified",
+        "properties": {
+          "name": "not_specified"
+        },
+        "elementId": "-520",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -151,
+        "start": -104,
+        "end": -103,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-151",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -157,
+        "start": -114,
+        "end": -110,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-157",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -158,
+        "start": -114,
+        "end": -113,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-158",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -156,
+        "start": -114,
+        "end": -104,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-156",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -153,
+        "start": -104,
+        "end": -110,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-153",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -152,
+        "start": -104,
+        "end": -104,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-152",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -154,
+        "start": -104,
+        "end": -113,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-154",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -155,
+        "start": -114,
+        "end": -103,
+        "type": "dealer",
+        "properties": {
+          "name": "dealer"
+        },
+        "elementId": "-155",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -250,
+        "start": -104,
+        "end": -104,
+        "type": "acquaintance",
+        "properties": {
+          "name": "acquaintance"
+        },
+        "elementId": "-250",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -327,
+        "start": -114,
+        "end": -103,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-327",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -325,
+        "start": -104,
+        "end": -113,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-325",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -320,
+        "start": -103,
+        "end": -113,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-320",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -317,
+        "start": -103,
+        "end": -103,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-317",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -330,
+        "start": -114,
+        "end": -113,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-330",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -319,
+        "start": -103,
+        "end": -110,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-319",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -326,
+        "start": -104,
+        "end": -114,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-326",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -331,
+        "start": -114,
+        "end": -114,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-331",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -322,
+        "start": -104,
+        "end": -103,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-322",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -328,
+        "start": -114,
+        "end": -104,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-328",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -323,
+        "start": -104,
+        "end": -104,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-323",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -324,
+        "start": -104,
+        "end": -110,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-324",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -329,
+        "start": -114,
+        "end": -110,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-329",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -321,
+        "start": -103,
+        "end": -114,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-321",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -318,
+        "start": -103,
+        "end": -104,
+        "type": "seller",
+        "properties": {
+          "name": "seller"
+        },
+        "elementId": "-318",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -205,
+        "start": -113,
+        "end": -110,
+        "type": "forced_sale",
+        "properties": {
+          "name": "forced_sale"
+        },
+        "elementId": "-205",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -289,
+        "start": -104,
+        "end": -110,
+        "type": "agent",
+        "properties": {
+          "name": "agent"
+        },
+        "elementId": "-289",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -287,
+        "start": -104,
+        "end": -103,
+        "type": "agent",
+        "properties": {
+          "name": "agent"
+        },
+        "elementId": "-287",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -288,
+        "start": -104,
+        "end": -104,
+        "type": "agent",
+        "properties": {
+          "name": "agent"
+        },
+        "elementId": "-288",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -535,
+        "start": -104,
+        "end": -113,
+        "type": "archaeologist",
+        "properties": {
+          "name": "archaeologist"
+        },
+        "elementId": "-535",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -491,
+        "start": -113,
+        "end": -110,
+        "type": "inheritance",
+        "properties": {
+          "name": "inheritance"
+        },
+        "elementId": "-491",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -233,
+        "start": -104,
+        "end": -104,
+        "type": "employee",
+        "properties": {
+          "name": "employee"
+        },
+        "elementId": "-233",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -232,
+        "start": -104,
+        "end": -103,
+        "type": "employee",
+        "properties": {
+          "name": "employee"
+        },
+        "elementId": "-232",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -528,
+        "start": -104,
+        "end": -113,
+        "type": "instrument_maker",
+        "properties": {
+          "name": "instrument_maker"
+        },
+        "elementId": "-528",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -437,
+        "start": -113,
+        "end": -110,
+        "type": "trial",
+        "properties": {
+          "name": "trial"
+        },
+        "elementId": "-437",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -348,
+        "start": -113,
+        "end": -110,
+        "type": "ruling",
+        "properties": {
+          "name": "ruling"
+        },
+        "elementId": "-348",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -395,
+        "start": -104,
+        "end": -104,
+        "type": "son",
+        "properties": {
+          "name": "son"
+        },
+        "elementId": "-395",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -499,
+        "start": -104,
+        "end": -104,
+        "type": "son_in_law",
+        "properties": {
+          "name": "son_in_law"
+        },
+        "elementId": "-499",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -405,
+        "start": -113,
+        "end": -113,
+        "type": "counterpart_to",
+        "properties": {
+          "name": "counterpart_to"
+        },
+        "elementId": "-405",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -533,
+        "start": -103,
+        "end": -113,
+        "type": "host",
+        "properties": {
+          "name": "host"
+        },
+        "elementId": "-533",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -534,
+        "start": -103,
+        "end": -114,
+        "type": "host",
+        "properties": {
+          "name": "host"
+        },
+        "elementId": "-534",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -532,
+        "start": -103,
+        "end": -110,
+        "type": "host",
+        "properties": {
+          "name": "host"
+        },
+        "elementId": "-532",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -398,
+        "start": -104,
+        "end": -104,
+        "type": "nephew",
+        "properties": {
+          "name": "nephew"
+        },
+        "elementId": "-398",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -489,
+        "start": -104,
+        "end": -113,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-489",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -486,
+        "start": -103,
+        "end": -113,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-486",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -487,
+        "start": -104,
+        "end": -104,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-487",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -485,
+        "start": -103,
+        "end": -110,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-485",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -488,
+        "start": -104,
+        "end": -110,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-488",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -484,
+        "start": -103,
+        "end": -104,
+        "type": "commissioner",
+        "properties": {
+          "name": "commissioner"
+        },
+        "elementId": "-484",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -136,
+        "start": -113,
+        "end": -101,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-136",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-101"
+      },
+      {
+        "identity": -140,
+        "start": -113,
+        "end": -111,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-140",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-111"
+      },
+      {
+        "identity": -141,
+        "start": -113,
+        "end": -112,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-141",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-112"
+      },
+      {
+        "identity": -142,
+        "start": -113,
+        "end": -115,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-142",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-115"
+      },
+      {
+        "identity": -138,
+        "start": -113,
+        "end": -108,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-138",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-108"
+      },
+      {
+        "identity": -139,
+        "start": -113,
+        "end": -109,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-139",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-109"
+      },
+      {
+        "identity": -135,
+        "start": -113,
+        "end": -100,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-135",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -137,
+        "start": -113,
+        "end": -106,
+        "type": "actual",
+        "properties": {
+          "name": "actual"
+        },
+        "elementId": "-137",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-106"
+      },
+      {
+        "identity": -500,
+        "start": -104,
+        "end": -103,
+        "type": "business_connection",
+        "properties": {
+          "name": "business_connection"
+        },
+        "elementId": "-500",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -501,
+        "start": -104,
+        "end": -104,
+        "type": "business_connection",
+        "properties": {
+          "name": "business_connection"
+        },
+        "elementId": "-501",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -394,
+        "start": -102,
+        "end": -102,
+        "type": "refers_to",
+        "properties": {
+          "name": "refers_to"
+        },
+        "elementId": "-394",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -414,
+        "start": -103,
+        "end": -110,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-414",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -418,
+        "start": -104,
+        "end": -110,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-418",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -422,
+        "start": -114,
+        "end": -110,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-422",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -412,
+        "start": -103,
+        "end": -102,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-412",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -420,
+        "start": -114,
+        "end": -102,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-420",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -416,
+        "start": -104,
+        "end": -102,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-416",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -419,
+        "start": -104,
+        "end": -114,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-419",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -421,
+        "start": -114,
+        "end": -104,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-421",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -413,
+        "start": -103,
+        "end": -104,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-413",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -423,
+        "start": -114,
+        "end": -114,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-423",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -415,
+        "start": -103,
+        "end": -114,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-415",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -417,
+        "start": -104,
+        "end": -104,
+        "type": "author",
+        "properties": {
+          "name": "author"
+        },
+        "elementId": "-417",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -166,
+        "start": -114,
+        "end": -113,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-166",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -161,
+        "start": -104,
+        "end": -110,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-161",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -163,
+        "start": -114,
+        "end": -103,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-163",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -162,
+        "start": -104,
+        "end": -113,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-162",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -159,
+        "start": -104,
+        "end": -103,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-159",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -160,
+        "start": -104,
+        "end": -104,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-160",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -165,
+        "start": -114,
+        "end": -110,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-165",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -164,
+        "start": -114,
+        "end": -104,
+        "type": "scholar",
+        "properties": {
+          "name": "scholar"
+        },
+        "elementId": "-164",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -393,
+        "start": -114,
+        "end": -113,
+        "type": "falsification",
+        "properties": {
+          "name": "falsification"
+        },
+        "elementId": "-393",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -392,
+        "start": -102,
+        "end": -113,
+        "type": "falsification",
+        "properties": {
+          "name": "falsification"
+        },
+        "elementId": "-392",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -502,
+        "start": -104,
+        "end": -113,
+        "type": "painter",
+        "properties": {
+          "name": "painter"
+        },
+        "elementId": "-502",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -539,
+        "start": -103,
+        "end": -113,
+        "type": "pretended_owner",
+        "properties": {
+          "name": "pretended_owner"
+        },
+        "elementId": "-539",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -271,
+        "start": -104,
+        "end": -103,
+        "type": "curator",
+        "properties": {
+          "name": "curator"
+        },
+        "elementId": "-271",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -435,
+        "start": -113,
+        "end": -113,
+        "type": "compared_with",
+        "properties": {
+          "name": "compared_with"
+        },
+        "elementId": "-435",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -134,
+        "start": -104,
+        "end": -113,
+        "type": "sculptor",
+        "properties": {
+          "name": "sculptor"
+        },
+        "elementId": "-134",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -133,
+        "start": -104,
+        "end": -103,
+        "type": "sculptor",
+        "properties": {
+          "name": "sculptor"
+        },
+        "elementId": "-133",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -313,
+        "start": -114,
+        "end": -110,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-313",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -311,
+        "start": -114,
+        "end": -103,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-311",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -309,
+        "start": -104,
+        "end": -113,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-309",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -306,
+        "start": -104,
+        "end": -103,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-306",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -307,
+        "start": -104,
+        "end": -104,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-307",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -314,
+        "start": -114,
+        "end": -113,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-314",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -301,
+        "start": -103,
+        "end": -103,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-301",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -302,
+        "start": -103,
+        "end": -104,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-302",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -312,
+        "start": -114,
+        "end": -104,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-312",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -315,
+        "start": -114,
+        "end": -114,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-315",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -305,
+        "start": -103,
+        "end": -114,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-305",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -308,
+        "start": -104,
+        "end": -110,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-308",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -303,
+        "start": -103,
+        "end": -110,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-303",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -304,
+        "start": -103,
+        "end": -113,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-304",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -310,
+        "start": -104,
+        "end": -114,
+        "type": "forger",
+        "properties": {
+          "name": "forger"
+        },
+        "elementId": "-310",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -432,
+        "start": -113,
+        "end": -113,
+        "type": "falsification_of",
+        "properties": {
+          "name": "falsification_of"
+        },
+        "elementId": "-432",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -508,
+        "start": -104,
+        "end": -114,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-508",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -505,
+        "start": -103,
+        "end": -114,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-505",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -504,
+        "start": -103,
+        "end": -113,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-504",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -506,
+        "start": -104,
+        "end": -110,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-506",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -507,
+        "start": -104,
+        "end": -113,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-507",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -503,
+        "start": -103,
+        "end": -110,
+        "type": "producer",
+        "properties": {
+          "name": "producer"
+        },
+        "elementId": "-503",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -436,
+        "start": -102,
+        "end": -113,
+        "type": "possible_restorgery",
+        "properties": {
+          "name": "possible_restorgery"
+        },
+        "elementId": "-436",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -285,
+        "start": -113,
+        "end": -113,
+        "type": "print_from",
+        "properties": {
+          "name": "print_from"
+        },
+        "elementId": "-285",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -196,
+        "start": -113,
+        "end": -113,
+        "type": "same_forger",
+        "properties": {
+          "name": "same_forger"
+        },
+        "elementId": "-196",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -224,
+        "start": -104,
+        "end": -104,
+        "type": "daughter",
+        "properties": {
+          "name": "daughter"
+        },
+        "elementId": "-224",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -524,
+        "start": -104,
+        "end": -113,
+        "type": "weaver",
+        "properties": {
+          "name": "weaver"
+        },
+        "elementId": "-524",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -177,
+        "start": -113,
+        "end": -113,
+        "type": "possibly_same_object",
+        "properties": {
+          "name": "possibly_same_object"
+        },
+        "elementId": "-177",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -110,
+        "start": -113,
+        "end": -110,
+        "type": "repair",
+        "properties": {
+          "name": "repair"
+        },
+        "elementId": "-110",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -527,
+        "start": -104,
+        "end": -113,
+        "type": "importer",
+        "properties": {
+          "name": "importer"
+        },
+        "elementId": "-527",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -473,
+        "start": -113,
+        "end": -113,
+        "type": "same_object",
+        "properties": {
+          "name": "same_object"
+        },
+        "elementId": "-473",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -479,
+        "start": -113,
+        "end": -110,
+        "type": "loan",
+        "properties": {
+          "name": "loan"
+        },
+        "elementId": "-479",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -463,
+        "start": -104,
+        "end": -113,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-463",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -464,
+        "start": -114,
+        "end": -104,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-464",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -465,
+        "start": -114,
+        "end": -113,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-465",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -461,
+        "start": -103,
+        "end": -113,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-461",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -460,
+        "start": -103,
+        "end": -104,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-460",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -462,
+        "start": -104,
+        "end": -104,
+        "type": "pretended_artist",
+        "properties": {
+          "name": "pretended_artist"
+        },
+        "elementId": "-462",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -497,
+        "start": -113,
+        "end": -113,
+        "type": "restorgery_of",
+        "properties": {
+          "name": "restorgery_of"
+        },
+        "elementId": "-497",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -397,
+        "start": -102,
+        "end": -113,
+        "type": "possible_falsification",
+        "properties": {
+          "name": "possible_falsification"
+        },
+        "elementId": "-397",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -424,
+        "start": -102,
+        "end": -110,
+        "type": "unclear",
+        "properties": {
+          "name": "unclear"
+        },
+        "elementId": "-424",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -426,
+        "start": -103,
+        "end": -110,
+        "type": "unclear",
+        "properties": {
+          "name": "unclear"
+        },
+        "elementId": "-426",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -425,
+        "start": -102,
+        "end": -113,
+        "type": "unclear",
+        "properties": {
+          "name": "unclear"
+        },
+        "elementId": "-425",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -427,
+        "start": -103,
+        "end": -113,
+        "type": "unclear",
+        "properties": {
+          "name": "unclear"
+        },
+        "elementId": "-427",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -316,
+        "start": -113,
+        "end": -113,
+        "type": "cast_of",
+        "properties": {
+          "name": "cast_of"
+        },
+        "elementId": "-316",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -336,
+        "start": -103,
+        "end": -114,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-336",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -337,
+        "start": -104,
+        "end": -103,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-337",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -339,
+        "start": -104,
+        "end": -110,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-339",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -333,
+        "start": -103,
+        "end": -104,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-333",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -343,
+        "start": -114,
+        "end": -104,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-343",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -344,
+        "start": -114,
+        "end": -110,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-344",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -345,
+        "start": -114,
+        "end": -113,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-345",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -346,
+        "start": -114,
+        "end": -114,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-346",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -340,
+        "start": -104,
+        "end": -113,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-340",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -335,
+        "start": -103,
+        "end": -113,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-335",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -342,
+        "start": -114,
+        "end": -103,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-342",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -334,
+        "start": -103,
+        "end": -110,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-334",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -341,
+        "start": -104,
+        "end": -114,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-341",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -332,
+        "start": -103,
+        "end": -103,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-332",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -338,
+        "start": -104,
+        "end": -104,
+        "type": "collector",
+        "properties": {
+          "name": "collector"
+        },
+        "elementId": "-338",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -523,
+        "start": -104,
+        "end": -113,
+        "type": "looter",
+        "properties": {
+          "name": "looter"
+        },
+        "elementId": "-523",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -522,
+        "start": -104,
+        "end": -110,
+        "type": "looter",
+        "properties": {
+          "name": "looter"
+        },
+        "elementId": "-522",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -275,
+        "start": -113,
+        "end": -110,
+        "type": "auction",
+        "properties": {
+          "name": "auction"
+        },
+        "elementId": "-275",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -300,
+        "start": -113,
+        "end": -113,
+        "type": "imitation_of",
+        "properties": {
+          "name": "imitation_of"
+        },
+        "elementId": "-300",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -496,
+        "start": -113,
+        "end": -113,
+        "type": "same_identification_mark",
+        "properties": {
+          "name": "same_identification_mark"
+        },
+        "elementId": "-496",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -148,
+        "start": -104,
+        "end": -113,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-148",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -144,
+        "start": -103,
+        "end": -110,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-144",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -146,
+        "start": -104,
+        "end": -103,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-146",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -147,
+        "start": -104,
+        "end": -110,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-147",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -143,
+        "start": -103,
+        "end": -103,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-143",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -145,
+        "start": -103,
+        "end": -113,
+        "type": "investigator",
+        "properties": {
+          "name": "investigator"
+        },
+        "elementId": "-145",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -434,
+        "start": -114,
+        "end": -113,
+        "type": "restorgery",
+        "properties": {
+          "name": "restorgery"
+        },
+        "elementId": "-434",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -433,
+        "start": -102,
+        "end": -113,
+        "type": "restorgery",
+        "properties": {
+          "name": "restorgery"
+        },
+        "elementId": "-433",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -270,
+        "start": -104,
+        "end": -114,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-270",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -263,
+        "start": -103,
+        "end": -103,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-263",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -267,
+        "start": -104,
+        "end": -103,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-267",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -265,
+        "start": -103,
+        "end": -113,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-265",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -264,
+        "start": -103,
+        "end": -110,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-264",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -269,
+        "start": -104,
+        "end": -113,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-269",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -266,
+        "start": -103,
+        "end": -114,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-266",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -268,
+        "start": -104,
+        "end": -110,
+        "type": "donor",
+        "properties": {
+          "name": "donor"
+        },
+        "elementId": "-268",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -279,
+        "start": -104,
+        "end": -104,
+        "type": "teacher",
+        "properties": {
+          "name": "teacher"
+        },
+        "elementId": "-279",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -458,
+        "start": -104,
+        "end": -104,
+        "type": "heir",
+        "properties": {
+          "name": "heir"
+        },
+        "elementId": "-458",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -459,
+        "start": -104,
+        "end": -110,
+        "type": "heir",
+        "properties": {
+          "name": "heir"
+        },
+        "elementId": "-459",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -276,
+        "start": -113,
+        "end": -110,
+        "type": "appraisal",
+        "properties": {
+          "name": "appraisal"
+        },
+        "elementId": "-276",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -277,
+        "start": -102,
+        "end": -113,
+        "type": "imitation",
+        "properties": {
+          "name": "imitation"
+        },
+        "elementId": "-277",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -278,
+        "start": -114,
+        "end": -113,
+        "type": "imitation",
+        "properties": {
+          "name": "imitation"
+        },
+        "elementId": "-278",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -466,
+        "start": -104,
+        "end": -103,
+        "type": "client",
+        "properties": {
+          "name": "client"
+        },
+        "elementId": "-466",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -468,
+        "start": -104,
+        "end": -110,
+        "type": "client",
+        "properties": {
+          "name": "client"
+        },
+        "elementId": "-468",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -467,
+        "start": -104,
+        "end": -104,
+        "type": "client",
+        "properties": {
+          "name": "client"
+        },
+        "elementId": "-467",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -469,
+        "start": -104,
+        "end": -113,
+        "type": "client",
+        "properties": {
+          "name": "client"
+        },
+        "elementId": "-469",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -260,
+        "start": -113,
+        "end": -110,
+        "type": "trade_fair",
+        "properties": {
+          "name": "trade_fair"
+        },
+        "elementId": "-260",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -493,
+        "start": -104,
+        "end": -104,
+        "type": "sister_in_law",
+        "properties": {
+          "name": "sister_in_law"
+        },
+        "elementId": "-493",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -541,
+        "start": -104,
+        "end": -113,
+        "type": "photographer",
+        "properties": {
+          "name": "photographer"
+        },
+        "elementId": "-541",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -149,
+        "start": -104,
+        "end": -103,
+        "type": "goldsmith",
+        "properties": {
+          "name": "goldsmith"
+        },
+        "elementId": "-149",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -150,
+        "start": -104,
+        "end": -113,
+        "type": "goldsmith",
+        "properties": {
+          "name": "goldsmith"
+        },
+        "elementId": "-150",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -430,
+        "start": -104,
+        "end": -113,
+        "type": "potter",
+        "properties": {
+          "name": "potter"
+        },
+        "elementId": "-430",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -429,
+        "start": -104,
+        "end": -103,
+        "type": "potter",
+        "properties": {
+          "name": "potter"
+        },
+        "elementId": "-429",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -471,
+        "start": -113,
+        "end": -113,
+        "type": "part_of_same_object",
+        "properties": {
+          "name": "part_of_same_object"
+        },
+        "elementId": "-471",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -381,
+        "start": -103,
+        "end": -114,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-381",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -390,
+        "start": -114,
+        "end": -113,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-390",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -391,
+        "start": -114,
+        "end": -114,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-391",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -377,
+        "start": -103,
+        "end": -103,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-377",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -380,
+        "start": -103,
+        "end": -113,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-380",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -389,
+        "start": -114,
+        "end": -110,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-389",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -378,
+        "start": -103,
+        "end": -104,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-378",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -379,
+        "start": -103,
+        "end": -110,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-379",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -384,
+        "start": -104,
+        "end": -110,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-384",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -386,
+        "start": -104,
+        "end": -114,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-386",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -387,
+        "start": -114,
+        "end": -103,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-387",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -383,
+        "start": -104,
+        "end": -104,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-383",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -388,
+        "start": -114,
+        "end": -104,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-388",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -382,
+        "start": -104,
+        "end": -103,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-382",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -385,
+        "start": -104,
+        "end": -113,
+        "type": "owner",
+        "properties": {
+          "name": "owner"
+        },
+        "elementId": "-385",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -444,
+        "start": -113,
+        "end": -110,
+        "type": "exhibition",
+        "properties": {
+          "name": "exhibition"
+        },
+        "elementId": "-444",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -510,
+        "start": -103,
+        "end": -110,
+        "type": "sold",
+        "properties": {
+          "name": "sold"
+        },
+        "elementId": "-510",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -297,
+        "start": -114,
+        "end": -113,
+        "type": "original",
+        "properties": {
+          "name": "original"
+        },
+        "elementId": "-297",
+        "startNodeElementId": "-114",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -296,
+        "start": -102,
+        "end": -113,
+        "type": "original",
+        "properties": {
+          "name": "original"
+        },
+        "elementId": "-296",
+        "startNodeElementId": "-102",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -225,
+        "start": -113,
+        "end": -110,
+        "type": "looting",
+        "properties": {
+          "name": "looting"
+        },
+        "elementId": "-225",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -252,
+        "start": -113,
+        "end": -101,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-252",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-101"
+      },
+      {
+        "identity": -254,
+        "start": -113,
+        "end": -108,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-254",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-108"
+      },
+      {
+        "identity": -253,
+        "start": -113,
+        "end": -106,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-253",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-106"
+      },
+      {
+        "identity": -256,
+        "start": -113,
+        "end": -111,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-256",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-111"
+      },
+      {
+        "identity": -255,
+        "start": -113,
+        "end": -109,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-255",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-109"
+      },
+      {
+        "identity": -257,
+        "start": -113,
+        "end": -112,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-257",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-112"
+      },
+      {
+        "identity": -258,
+        "start": -113,
+        "end": -115,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-258",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-115"
+      },
+      {
+        "identity": -251,
+        "start": -113,
+        "end": -100,
+        "type": "pretended",
+        "properties": {
+          "name": "pretended"
+        },
+        "elementId": "-251",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-100"
+      },
+      {
+        "identity": -299,
+        "start": -104,
+        "end": -113,
+        "type": "bronze_founder",
+        "properties": {
+          "name": "bronze_founder"
+        },
+        "elementId": "-299",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -282,
+        "start": -104,
+        "end": -110,
+        "type": "witness",
+        "properties": {
+          "name": "witness"
+        },
+        "elementId": "-282",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -410,
+        "start": -104,
+        "end": -110,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-410",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -406,
+        "start": -103,
+        "end": -103,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-406",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -407,
+        "start": -103,
+        "end": -110,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-407",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -411,
+        "start": -104,
+        "end": -113,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-411",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -408,
+        "start": -103,
+        "end": -113,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-408",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -409,
+        "start": -104,
+        "end": -103,
+        "type": "former_owner",
+        "properties": {
+          "name": "former_owner"
+        },
+        "elementId": "-409",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -396,
+        "start": -113,
+        "end": -110,
+        "type": "complaint",
+        "properties": {
+          "name": "complaint"
+        },
+        "elementId": "-396",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -543,
+        "start": -103,
+        "end": -113,
+        "type": "pretended_producer",
+        "properties": {
+          "name": "pretended_producer"
+        },
+        "elementId": "-543",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -294,
+        "start": -104,
+        "end": -113,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-294",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -292,
+        "start": -103,
+        "end": -114,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-292",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -291,
+        "start": -103,
+        "end": -113,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-291",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -290,
+        "start": -103,
+        "end": -110,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-290",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -293,
+        "start": -104,
+        "end": -110,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-293",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -295,
+        "start": -104,
+        "end": -114,
+        "type": "recipient",
+        "properties": {
+          "name": "recipient"
+        },
+        "elementId": "-295",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -347,
+        "start": -113,
+        "end": -113,
+        "type": "same_group",
+        "properties": {
+          "name": "same_group"
+        },
+        "elementId": "-347",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -455,
+        "start": -113,
+        "end": -110,
+        "type": "investigation",
+        "properties": {
+          "name": "investigation"
+        },
+        "elementId": "-455",
+        "startNodeElementId": "-113",
+        "endNodeElementId": "-110"
+      },
+      {
+        "identity": -526,
+        "start": -104,
+        "end": -113,
+        "type": "possible_restorer",
+        "properties": {
+          "name": "possible_restorer"
+        },
+        "elementId": "-526",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -525,
+        "start": -103,
+        "end": -113,
+        "type": "possible_restorer",
+        "properties": {
+          "name": "possible_restorer"
+        },
+        "elementId": "-525",
+        "startNodeElementId": "-103",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -200,
+        "start": -104,
+        "end": -104,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-200",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-104"
+      },
+      {
+        "identity": -198,
+        "start": -104,
+        "end": -102,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-198",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-102"
+      },
+      {
+        "identity": -202,
+        "start": -104,
+        "end": -113,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-202",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-113"
+      },
+      {
+        "identity": -203,
+        "start": -104,
+        "end": -114,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-203",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-114"
+      },
+      {
+        "identity": -199,
+        "start": -104,
+        "end": -103,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-199",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-103"
+      },
+      {
+        "identity": -201,
+        "start": -104,
+        "end": -110,
+        "type": "correspondent",
+        "properties": {
+          "name": "correspondent"
+        },
+        "elementId": "-201",
+        "startNodeElementId": "-104",
+        "endNodeElementId": "-110"
+      }
+    ]
+  }
+]

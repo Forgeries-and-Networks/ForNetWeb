@@ -1,5 +1,11 @@
 {
   "devDependencies": {
+    "@panzoom/panzoom": "^4.6.2",
+    "cytoscape": "^3.34.0",
+    "cytoscape-cise": "^2.0.1",
+    "graphology": "^0.26.0",
+    "graphology-layout": "^0.6.1",
+    "sigma": "^3.0.3",
     "vitepress": "^1.1.0"
   },
   "scripts": {
