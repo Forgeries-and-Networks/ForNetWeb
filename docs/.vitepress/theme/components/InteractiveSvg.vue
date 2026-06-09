@@ -10,11 +10,12 @@
 
 <script setup>
   import { onMounted, onBeforeMount, ref } from 'vue'
-  import Panzoom from '@panzoom/panzoom'
+  import * as pz from '@panzoom/panzoom'
   import {delay} from '../util'
 
   let svg = ref(null)
   let root = ref(null)
+  const Panzoom = pz.default
 
   const props = defineProps({
     url: {type: String},

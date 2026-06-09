@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Forgeries and Networks",
   description: "Website of the ForNet project",
   base: "/ForNetWeb/",
+  ignoreDeadLinks: 'localhostLinks',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

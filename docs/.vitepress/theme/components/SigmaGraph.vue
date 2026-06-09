@@ -1,11 +1,10 @@
 <template>
-  <div class="interactive-graph" ref="root" />
+  <div class="sigma-graph" ref="root" />
 </template>
 
 <script setup>
   import { onMounted, ref } from 'vue'
   import {MultiDirectedGraph as Graph} from "graphology"
-  import Sigma from "sigma"
   import {circular} from 'graphology-layout'
 
   import {delay} from '../util'
@@ -18,6 +17,8 @@
   })
 
   onMounted(async () => {
+    const { default: Sigma } = await import('sigma')
+
     const element = root.value
     data = await fetch(props.url).then(r => r.json())
 

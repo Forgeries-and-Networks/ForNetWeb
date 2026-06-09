@@ -7,7 +7,7 @@
   start-scale="0.6"
 />
 
-<InteractiveGraph
+<SigmaGraph
   url="raw.meta.json"
 />
 
