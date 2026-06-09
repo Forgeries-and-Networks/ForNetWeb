@@ -1,0 +1,2479 @@
+{
+  "nodes": {
+    "Modern": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "date": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "entry": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Contains_images"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Controller"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Editor"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Language"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Note"
+      },
+      {
+        "types": [
+          "Long"
+        ],
+        "name": "Pages"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Title"
+      },
+      {
+        "types": [
+          "Long"
+        ],
+        "name": "Year"
+      }
+    ],
+    "institution": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "City"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Comments"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Country"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Name"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Other_links"
+      }
+    ],
+    "person": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Comments"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Gender"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Initials"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Name"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Other_links"
+      }
+    ],
+    "material": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Material"
+      }
+    ],
+    "Bronze_Age": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "object": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Classification"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Hierarchy_name"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Type"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "URL"
+      }
+    ],
+    "Medieval": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "Early_modern": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "event": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Country"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Currency"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Date"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Offer_status"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Other_information"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Place"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Price"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Type"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Year"
+      }
+    ],
+    "Prehistoric": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ],
+    "origin": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Country"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Name"
+      }
+    ],
+    "artwork": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Comment"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Contains_original_component"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Editor"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Measurements"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Name"
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note"
+      },
+      {
+        "types": [
+          "Long"
+        ],
+        "name": "Number_of_objects"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Other"
+      }
+    ],
+    "source": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "DOI"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Journal_title"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Language"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Other_links"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Title"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Type"
+      }
+    ],
+    "Antiquity": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "ID"
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Period"
+      }
+    ]
+  },
+  "relationships": {
+    "ERROR": [],
+    "accused": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "acquaintance": [],
+    "actual": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Century",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Origin",
+        "mandatory": false
+      }
+    ],
+    "agent": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "appraisal": [],
+    "appraiser": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "apprentice": [],
+    "archaeologist": [],
+    "artist": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "auction": [],
+    "auctioneer": [],
+    "author": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "borrower": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "bronze_founder": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "brother_in_law": [],
+    "brother": [],
+    "business_connection": [],
+    "buyer": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source_note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "carpenter": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "cast_of": [],
+    "client": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "collaborator": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "collector": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "commission": [],
+    "commissioner": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "compared_with": [],
+    "complaint": [],
+    "conservator": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "consultant": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "contains": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Measurement",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "copy_of": [],
+    "copy": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "correspondent": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "counterpart_to": [],
+    "curator": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "daughter": [],
+    "dealer": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "depicted_person": [],
+    "director": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "discussant": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "donated": [],
+    "donor": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "editor": [],
+    "employee": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "exhibition": [],
+    "expert": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "falsification_of": [],
+    "falsification": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "forced_sale": [],
+    "forger": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "forgery_of": [],
+    "forgery_same_original": [],
+    "forgery": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "former_owner": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "founder": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "friend": [],
+    "gift": [],
+    "goldsmith": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "heir": [],
+    "host": [],
+    "imitation_of": [],
+    "imitation": [
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "importer": [],
+    "inheritance": [],
+    "initiator": [],
+    "instrument_maker": [],
+    "intermediary": [],
+    "investigated": [],
+    "investigation": [],
+    "investigator": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "is": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Style",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Subject",
+        "mandatory": false
+      }
+    ],
+    "linked_to": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "loan": [],
+    "looter": [],
+    "looting": [],
+    "meeting": [],
+    "member": [],
+    "mentions": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Editor",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Page_numbers",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Place_of_publication",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Volume",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Year_of_publication",
+        "mandatory": false
+      }
+    ],
+    "nephew": [],
+    "not_specified": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "offer": [],
+    "original": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "other": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "owner": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "painter": [],
+    "part_of_same_object": [],
+    "parting_party": [],
+    "pastiche": [
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "photographer": [],
+    "plaintiff": [],
+    "plaster_caster": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "possible_artist": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "possible_falsification": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": true
+      }
+    ],
+    "possible_forger": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "possible_forgery_of": [],
+    "possible_forgery": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "possible_restorer": [],
+    "possible_restorgery": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": true
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "possibly_same_forger": [],
+    "possibly_same_object": [],
+    "potter": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "pretended_artist": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "pretended_author": [],
+    "pretended_former_owner": [],
+    "pretended_owner": [],
+    "pretended_producer": [],
+    "pretended": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Century",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Origin",
+        "mandatory": false
+      }
+    ],
+    "print_from": [],
+    "producer": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "received": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "recipient": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "referral": [],
+    "refers_to": [],
+    "repair": [],
+    "repairer": [],
+    "restorer": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "restorgery_of": [],
+    "restorgery": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "reviewer": [],
+    "ruling": [],
+    "sale": [],
+    "same_forger": [],
+    "same_group": [],
+    "same_identification_mark": [],
+    "same_object": [],
+    "same_technique": [],
+    "same_workshop": [],
+    "scholar": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Start_date",
+        "mandatory": false
+      }
+    ],
+    "sculptor": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "seller": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "End_date",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "sister_in_law": [],
+    "sold": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "son_in_law": [],
+    "son": [],
+    "stained-glass_artist": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": true
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": true
+      }
+    ],
+    "stylistic_imitation": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "stylorgery": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "supplier": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "teacher": [],
+    "theft": [],
+    "thief": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      }
+    ],
+    "took_place_at": [],
+    "trade_fair": [],
+    "translator": [],
+    "trial": [],
+    "uncertain": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "DOI",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Page",
+        "mandatory": false
+      }
+    ],
+    "unclear": [
+      {
+        "types": [
+          "StringArray",
+          "String"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "String"
+        ],
+        "name": "Source",
+        "mandatory": false
+      }
+    ],
+    "unknown": [
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Country",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Note",
+        "mandatory": false
+      },
+      {
+        "types": [
+          "StringArray"
+        ],
+        "name": "Place",
+        "mandatory": false
+      }
+    ],
+    "weaver": [],
+    "wife": [],
+    "witness": []
+  }
+}
