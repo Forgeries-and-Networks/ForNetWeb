@@ -11,9 +11,11 @@
 
 * Henry Keazor, 'Einmal Fälschung und zurück? Kritische Momente in der Echtheitsprüfung', keynote lecture in the context of the study course "Original, Kopie, Fälschung, Plagiat, Appropriation Art", November 7, 2025, Palais Kinsky, Vienna
 
-* Jaap Geraerts and Thorsten Wübbena, 'Forgeries and Networks – The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', February 5, 2026, Goethe Universiy, Frankfurt am Main
+* Jaap Geraerts and Thorsten Wübbena, 'Forgeries and Networks – The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', February 5, 2026, Goethe University, Frankfurt am Main
 
 * Rebecca Welkens,  'Forgeries and Networks (ForNet): The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', Workshop, March 18, 2026, Central Institute for Art History (Zentralinstitut für Kunstgeschichte), Munich
+
+* Jaap Geraerts and Demival Vasques Filho, 'Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945', International Historical Network Research Conference (HNR2026), July 21, Turin
 
 
 ## Publications
