@@ -23,9 +23,6 @@ hero:
       text: Data and scripts
       link: /data_scripts
     - theme: brand
-      text: Zotero library
-      link: /zotero
-    - theme: brand
       text: Impressum
       link: /impressum
       
