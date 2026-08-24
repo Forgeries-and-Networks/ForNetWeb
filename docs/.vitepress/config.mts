@@ -21,7 +21,6 @@ export default defineConfig({
           { text: 'Project partners', link: '/project_partners' },
           { text: 'Talks and publications', link: '/talks_and_publications'},
           { text: 'Data and scripts', link: '/data_scripts' },
-          { text: 'Zotero library', link: '/zotero' }, 
           { text: 'Impressum', link: '/impressum'}
         ]
       }
