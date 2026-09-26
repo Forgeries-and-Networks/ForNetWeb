@@ -15,7 +15,9 @@
 
 * Rebecca Welkens,  'Forgeries and Networks (ForNet): The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century', Workshop, March 18, 2026, Central Institute for Art History (Zentralinstitut für Kunstgeschichte), Munich
 
-* Jaap Geraerts and Demival Vasques Filho, 'Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945', International Historical Network Research Conference (HNR2026), July 21, Turin
+* Jaap Geraerts and Demival Vasques Filho, 'Disclosing Counterfeit Networks: The International Association of Museum Officials in Defence Against Counterfeiting and Improper Trade Practices, c. 1900–1945', International Historical Network Research Conference (HNR2026), July 21, 2026, Turin
+
+* Thorsten Wübbena, 'Wer, wo, was, mit wem? – Historische Netzwerke erforschen', Tag des offenen Denkmals, September 13, 2026, Leibniz Institute of European History 
 
 
 ## Publications
@@ -24,6 +26,8 @@
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet): data transformations”, DH Lab, 27.06.2025, https://dhlab.hypotheses.org/7237.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
+
+* Jaap Geraerts and Demival Vasques Filho, Tracing counterfeit practices through network analysis: “Forgeries and Networks. The Mittheilungen des Museen-Verbandes and Forgery Networks in the 20th century” (ForNet), L.I.S.A. Wissenschaftsportal Gerda Henkel Stiftung, 19.09.26, https://lisa.gerda-henkel-stiftung.de/kunstfaelschungen_digital_humanities.
 
 
 ## Poster
