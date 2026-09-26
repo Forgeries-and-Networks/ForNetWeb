@@ -21,13 +21,13 @@
 
 
 ## Publications
-* Cara Signe Hoppe, „Fälschungen und Netzwerke – Die 'Mittheilungen des Museen-Verbandes' und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
+* Cara Signe Hoppe: „Fälschungen und Netzwerke – Die 'Mittheilungen des Museen-Verbandes' und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: “Forgeries and Networks (ForNet): data transformations”, DH Lab, 27.06.2025, https://dhlab.hypotheses.org/7237.
 
 * Jaap Geraerts, Henry Keazor, Demival Vasques Filho, Rebecca Welkens, Thorsten Wübbena: „Archivrecherchen, Quellen- und Netzwerkanalysen: Erste Einblicke in das DFG-Projekt ‚ForNet – Fälschungen und Netzwerke‘“, arthistoricum.net, 01.12.2025, https://blog.arthistoricum.net/beitrag/2025/12/01/archivrecherchen-quellen-und-netzwerkanalysen-erste-einblicke.
 
-* Jaap Geraerts and Demival Vasques Filho, Tracing counterfeit practices through network analysis: “Forgeries and Networks. The Mittheilungen des Museen-Verbandes and Forgery Networks in the 20th century” (ForNet), L.I.S.A. Wissenschaftsportal Gerda Henkel Stiftung, 19.09.26, https://lisa.gerda-henkel-stiftung.de/kunstfaelschungen_digital_humanities.
+* Jaap Geraerts and Demival Vasques Filho: Tracing counterfeit practices through network analysis: “Forgeries and Networks. The Mittheilungen des Museen-Verbandes and Forgery Networks in the 20th century” (ForNet), L.I.S.A. Wissenschaftsportal Gerda Henkel Stiftung, 19.09.26, https://lisa.gerda-henkel-stiftung.de/kunstfaelschungen_digital_humanities.
 
 
 ## Poster
