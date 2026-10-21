@@ -43,4 +43,4 @@
 
 * [Interview with Henry Keazor (SFR)](https://www.srf.ch/kultur/kunst/forschung-zu-faelschungen-fake-dieser-mann-kennt-die-tricks-der-meisterfaelscher), August 19th 2024 -- German
 
-* [Interview with Henry Keazor (SR) (https://www.sr.de/sr/sr3/sendungen_a-z/uebersicht/guten_abend/aus_dem_leben/aus_dem_leben_mit_kunsthistoriker_henry_keazor_100.html), October 20th 2026 –– German
+* [Interview with Henry Keazor (SR)] (https://www.sr.de/sr/sr3/sendungen_a-z/uebersicht/guten_abend/aus_dem_leben/aus_dem_leben_mit_kunsthistoriker_henry_keazor_100.html), October 20th 2026 –– German
