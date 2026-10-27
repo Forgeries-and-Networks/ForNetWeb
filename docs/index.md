@@ -23,6 +23,9 @@ hero:
       text: Data and scripts
       link: /data_scripts
     - theme: brand
+      text: Sources
+      link: /sources
+    - theme: brand
       text: Impressum
       link: /impressum
       
