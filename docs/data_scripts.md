@@ -62,25 +62,15 @@ http://localhost:7474
 The neo4j gives you access to the data the same way as the research team was
 working on it. For your convenience, this repository contains a number of
 alternative formats and the code to produce them, see the `formats/` directory.
-You'll find
 
-* **.dump**: A binary graph dump format that allows importing into a
-  neo4j-desktop instance
-* **.cypher**: A text-based graph dump format that allows importing into a
-  neo4j server community edition
-* **.graphml**: A graph format used by some applications, most notably
-[Gephi](https://gephi.org/)
-* **.rdf.ttl** A RDF format supporting a number of software tools,
-  such as [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/index.html),
-  python's [rdflib](https://pypi.org/project/rdflib/) or
-  ruby's [RDF]https://rubygems.org/gems/rdf gem. A JSON-LD variant as well as a
-  XML variant are also included
-* **.sigma.json**: A JSON-based format compatible with
-  [sigma.js](https://www.sigmajs.org/), a JavaScript library capable of
-  rendering the entire graph on a web page.
-* **.cy.json**: A JSON-based format compatible with
-  [cytoscape.js](https://js.cytoscape.org/), another JavaScript graph
-  visualization library
+| Format | Description |
+| --- | --- |
+| `.dump` | Binary graph dump for importing into a [Neo4j Desktop](https://neo4j.com/download/) instance |
+| `.cypher` | Text-based graph dump for importing into a Neo4j Community Edition server |
+| `.graphml` | Graph format supported by many applications, most notably [Gephi](https://gephi.org/) |
+| `.rdf.ttl` | RDF (Turtle) for tools such as [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/), Python's [rdflib](https://pypi.org/project/rdflib/) or Ruby's [rdf](https://rubygems.org/gems/rdf) gem. JSON-LD and RDF/XML variants are included as well. |
+| `.sigma.json` | JSON format for [sigma.js](https://www.sigmajs.org/), a JavaScript library that can render the entire graph on a web page |
+| `.cy.json` | JSON format for [Cytoscape.js](https://js.cytoscape.org/), another JavaScript library for graph visualisation |
 
 To run a fuseki server, use `./run.sh fuseki`, then go to http://localhost:3030
 with your browser and log in with username `admin` and password `1234`. You can
