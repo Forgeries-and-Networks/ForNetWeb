@@ -59,7 +59,7 @@ export default defineConfig({
         </a>
         <div style="margin-top: 10px;">Released under the MIT License.</div> 
       `,
-      copyright: 'Copyright © 2023 Forgeries and Networks'   
+      copyright: '© 2024–2027 Forgeries and Networks (ForNet)' 
 }
 }
   }
