@@ -4,8 +4,8 @@ This is a quick guide to get started with the project's data. We also provide a
 set of scripts to get you started with some of the dependencies and tools.
 
 The data itself lives in a
-[separate repository](https://github.com/Forgeries-and-Networks/data) and its
-structured as a set of tripples best explored through the functionality and user
+[separate repository](https://github.com/Forgeries-and-Networks/data) and is
+structured as a set of triples best explored through the functionality and user
 interface of the Neo4j Community Edition Server. The following section shows how
 the software can be deployed easily on a workstation.
 
