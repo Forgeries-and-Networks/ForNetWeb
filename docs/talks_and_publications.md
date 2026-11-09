@@ -19,6 +19,9 @@
 
 * Thorsten Wübbena, 'Wer, wo, was, mit wem? – Historische Netzwerke erforschen', Tag des offenen Denkmals, September 13, 2026, Leibniz Institute of European History 
 
+* Rebecca Welkens, 'Expertise, Forgeries, and National Positioning: The International Museum Association (c. 1898–1939)', Collecting to Shape and Reflect the Nation (conference), October 22-24, 2026, London, Victoria and Albert Museum 
+
+* Rebecca Welkens, 'Fälschungen im Museum: Angewandte Künste in den Mittheilungen des Internationalen Museenverbands‘, Angewandte Künste – Aktuelle Perspektiven auf ein vielgestaltiges Forschungsfeld (conference), October 28–30, 2026, Braunschweig, Herzog Anton Ulrich Museum
 
 ## Publications
 * Cara Signe Hoppe: „Fälschungen und Netzwerke – Die 'Mittheilungen des Museen-Verbandes' und Fälschungsnetzwerke im 20. Jahrhundert (ForNet)“, arthistoricum.net, 18.12.2024, https://blog.arthistoricum.net/beitrag/2024/12/18/faelschungen-und-netzwerke-fornet.
