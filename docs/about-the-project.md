@@ -1,6 +1,6 @@
 # The ForNet project
 
-“Forgeries and Networks – The *Mittheilungen des Museen-Verbandes* and forgery networks in the 20th century” (short: ForNet) is a cooperative project of the [Leibniz Institute of European History Mainz (IEG)](https://www.ieg-mainz.de/likecms.php?function=set_lang&lang=en) and the  [Institut für Europäische Kunstgeschichte (IEK)](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/) at the University of Heidelberg.
+“Forgeries and Networks – The *Mittheilungen des Museen-Verbandes* and forgery networks in the 20th century” (short: ForNet) is a cooperative project of the [Leibniz Institute of European History Mainz (IEG)](https://www.ieg-mainz.de/en/) and the  [Institut für Europäische Kunstgeschichte (IEK)](https://www.uni-heidelberg.de/fakultaeten/philosophie/zegk/iek/) at the University of Heidelberg.
 
 The project will use digital tools and methods to assess the detecting and preventive strategies against art forgeries, as implemented in the journal “Mittheilungen des Museen-Verbande als Manuscript für die Mitglieder”, published between 1899 and 1939 by the “International Association of Museum Officials for the Prevention of Forgeries and Improper Business Practices”. 
 Here, art historians, art dealers and museum employees from the leading museums, collections and sale institutions of their time in Europe and North America published exposed forgeries of ancient to modern art.
